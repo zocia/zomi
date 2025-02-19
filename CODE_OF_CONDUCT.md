@@ -1,8 +1,3 @@
-
----
-
-### **4. CODE_OF_CONDUCT.md**
-```markdown
 # Code of Conduct
 
 ## Our Pledge
