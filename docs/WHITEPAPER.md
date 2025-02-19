@@ -1,16 +1,16 @@
 ---
-TITLE: Whitepaper - Zomi Dictionary Project
+TITLE: Whitepaper - Zomi Language Project
 DATE: February 20, 2025
 ---
 
-# 📜 Whitepaper: The Zomi Dictionary Project  
-**Preserving Zomi Cultural Heritage Through Open-Source Innovation**  
-**[ZomiDictionary.com](https://ZomiDictionary.com)**  
+# 📜 Whitepaper: The Zomi Language  
+**Preserving Zomi Literature and Language Through Open-Source Innovation**  
+**[ZomiLanguage.com](https://ZomiLanguage.com)**  
 
 ---
 
 ## 📰 Executive Summary  
-The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bangladesh, faces existential threats from digital exclusion and cultural erosion. The **ZomiDictionary Project** (rebranded as **ZomiLanguage**) is a community-driven, open-source initiative to safeguard this linguistic heritage. With **14,614+ validated words** and partnerships spanning academia, tech giants, and Zomi civil organizations, this whitepaper outlines a roadmap to transform Zomi into a digitally empowered language by 2030.  
+The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bangladesh, faces existential threats from digital exclusion and cultural erosion. The **ZomiLanguage Project** (rebranded as **ZomiLanguage**) is a community-driven, open-source initiative to safeguard this linguistic heritage. With **14,614+ validated words** and partnerships spanning academia, tech giants, and Zomi civil organizations, this whitepaper outlines a roadmap to transform Zomi into a digitally empowered language by 2030.  
 
 ---
 
@@ -23,7 +23,7 @@ The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bang
   - **Endangerment**: Youth migration to dominant languages (Burmese, English, Hindi).  
   - **Fragmentation**: Lack of standardized orthography.  
 
-### 🌟 1.2 The ZomiDictionary Project  
+### 🌟 1.2 The Zomi Language Project  
 - **Mission**: "To preserve, promote, and future-proof the Zomi language through open collaboration, technology, and education."  
 - **Vision**: "By 2030, Zomi will thrive as a living language in homes, schools, and the digital world."  
 
@@ -65,10 +65,10 @@ The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bang
 
 ## 👥 4. Community Engagement  
 ### 🌐 4.1 Stakeholder Roles  
-| **Group**                     | **Role**                                                                 |  
+| **Group**                     | **Role**                                                                |  
 |-------------------------------|-------------------------------------------------------------------------|  
-| **Zomi Civil Organizations** | Host word-collection drives and cultural festivals.                        |  
-| **Faith Organizations**       | Digitize hymns, sermons; curate *Sacred Texts Repository*.              |  
+| **Zomi Civil Organizations** | Host word-collection drives and cultural festivals.                      |  
+| **Faith Organizations**       | Digitize hymns, lyrics, sermons; curate *Sacred Texts Repository*.      |  
 | **Political Groups**          | Advocate for Zomi in education/government policies.                     |  
 | **Developers**                | Build tools using the ZomiLanguage API.                                 |  
 
@@ -85,10 +85,10 @@ The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bang
 - **Commercial API**: 50% of revenue funds language schools.  
 
 ### 📜 5.2 Ethical Guidelines  
-- **Cultural Consent**: Sacred terms require approval from the **Zomi Language Council (ZLC)**.  
+- **Cultural Consent**: Sacred terms require approval from the **Zomi Language Council**.  
 - **Data Sovereignty**: Contributors retain rights to dialectal variants.  
 
-### 🏛️ 5.3 Zomi Language Council (ZLC)  
+### 🏛️ 5.3 Zomi Language Council 
 - **Composition**: 21 members (elders, linguists, technologists).  
 - **Role**: Oversee data use, resolve disputes, and approve partnerships.  
 
@@ -111,14 +111,14 @@ The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bang
 
 ## 📢 7. Call to Action  
 ### 🌍 For Zomi Speakers  
-- Submit words, stories, or audio at **[ZomiDictionary.com/contribute](https://ZomiDictionary.com/contribute)**.  
+- Submit words, stories, or audio at **[ZomiLanguage.com](https://ZomiLanguage.com)**.  
 
 ### 💻 For Developers & Researchers  
-- Fork the **[GitHub Repository](https://github.com/ZomiLanguage)**.  
+- Fork the **[GitHub Repository](https://github.com/zocia/zomi)**.  
 - Build apps using the **ZomiLanguage API**.  
 
 ### 🤝 For Partners  
-- Email **collaborate@zomidictionary.com** to join the movement.  
+- Email **support@zomilanguage.com** to join the movement.
 
 ---
 
