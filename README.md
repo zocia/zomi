@@ -1,46 +1,60 @@
-# Zomi Language Project
+# Zomi Language
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/zocia/zomi)](https://github.com/zocia/zomi/graphs/contributors)
-[![Issues](https://img.shields.io/github/issues/zocia/zomi)](https://github.com/zocia/zomi/issues)
-[![Stars](https://img.shields.io/github/stars/zocia/zomi?style=social)](https://github.com/zocia/zomi)
-[![Forks](https://img.shields.io/github/forks/zocia/zomi?style=social)](https://github.com/zocia/zomi)
+Welcome to the Zomi Language repository! This repository contains all the resources, documentation, and tools related to the Zomi programming language.
 
-![](assets/icons/translate.svg) **Welcome to the Zomi Language Project**, a collaborative effort to document, preserve, and promote the Zomi language.
+## Overview
 
-Visit our official website: [ZomiLanguage.com](https://ZomiLanguage.com).
-
----
+The Zomi Language is designed to be a powerful, flexible, and easy-to-use programming language. It aims to provide developers with a rich set of features and an intuitive syntax that makes coding more efficient and enjoyable.
 
 ## Features
-- ![](assets/icons/grammar.svg) Comprehensive grammar rules and phonetic guides.
-- ![](assets/icons/translate.svg) English-to-Zomi and Zomi-to-English translation dictionaries.
-- ![](assets/icons/vocab.svg) Tools for generating vocabulary lists and corpora.
-- ![](assets/icons/dataset.svg) A growing dataset of Zomi texts for linguistic research.
-- ![](assets/icons/nlp.svg) Open-source scripts for natural language processing (NLP).
 
----
-
-## Site Stats
-- **Words in Dictionary**: 500+ (and growing!)
-- **Active Contributors**: ![Contributors](https://img.shields.io/github/contributors/zocia/zomi)
-- **GitHub Stars**: ![Stars](https://img.shields.io/github/stars/zocia/zomi?style=social)
-- **Open Issues**: ![Issues](https://img.shields.io/github/issues/zocia/zomi)
-
----
-
-## Screenshots
-![](assets/screenshots/translation_tool.png)
-*Translation Tool Interface*
-
-![](assets/screenshots/vocab_generator.png)
-*Vocabulary Generator Interface*
-
----
+- Easy-to-read syntax
+- Powerful standard library
+- Cross-platform compatibility
+- High performance
+- Strong typing system
+- Excellent tooling and IDE support
 
 ## Getting Started
-To get started with this project, clone the repository:
 
-```bash
-git clone https://github.com/zocia/zomi.git
-cd zomi
+### Installation
+
+To install the Zomi Language, follow these steps:
+
+1. Download the latest release from [https://zomilanguage.com](https://zomilanguage.com).
+2. Follow the installation instructions provided in the documentation.
+
+### Hello World
+
+Here is a simple "Hello, World!" program written in Zomi:
+
+```zomi
+print("Hello, World!")
+```
+
+## Documentation
+
+Comprehensive documentation for the Zomi Language can be found at [https://zomilanguage.com/docs](https://zomilanguage.com/docs).
+
+## Contributing
+
+We welcome contributions from the community! To contribute to the Zomi Language, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes.
+4. Submit a pull request.
+
+Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+For any questions or inquiries, please contact us at [support@zomilanguage.com](mailto:support@zomilanguage.com).
+
+---
+
+Thank you for your interest in the Zomi Language!
