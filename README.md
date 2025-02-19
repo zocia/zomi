@@ -1,2 +1,2 @@
-# zomi
+# Zomi
 Zomi Language Development
