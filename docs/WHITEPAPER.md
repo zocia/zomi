@@ -10,7 +10,7 @@ DATE: February 20, 2025
 ---
 
 ## 📰 Executive Summary  
-The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bangladesh, faces existential threats from digital exclusion and cultural erosion. The **ZomiLanguage Project** (rebranded as **ZomiLanguage**) is a community-driven, open-source initiative to safeguard this linguistic heritage. With **14,614+ validated words** and partnerships spanning academia, tech giants, and Zomi civil organizations, this whitepaper outlines a roadmap to transform Zomi into a digitally empowered language by 2030.  
+The Zomi language, a Tibeto-Burman tongue spoken across Myanmar, India, and Bangladesh, faces existential threats from digital exclusion and cultural erosion. The **Zomi Language Project** (rebranded as **Zomi Language**) is a community-driven, open-source initiative to safeguard this linguistic heritage. With **14,614+ validated words** and partnerships spanning academia, tech giants, and Zomi civil organizations, this whitepaper outlines a roadmap to transform Zomi into a digitally empowered language by 2030.  
 
 ---
 
